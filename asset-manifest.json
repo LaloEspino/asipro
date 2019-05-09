@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/asipro/static/css/main.43ca1fff.chunk.css",
+    "main.js": "/asipro/static/js/main.c2731539.chunk.js",
+    "main.js.map": "/asipro/static/js/main.c2731539.chunk.js.map",
+    "runtime~main.js": "/asipro/static/js/runtime~main.b7fb00ec.js",
+    "runtime~main.js.map": "/asipro/static/js/runtime~main.b7fb00ec.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/asipro/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.afd7426c.chunk.js": "/asipro/static/js/2.afd7426c.chunk.js",
+    "static/js/2.afd7426c.chunk.js.map": "/asipro/static/js/2.afd7426c.chunk.js.map",
+    "index.html": "/asipro/index.html",
+    "precache-manifest.c4f0ae74e84ab4ae144aac3fb2517803.js": "/asipro/precache-manifest.c4f0ae74e84ab4ae144aac3fb2517803.js",
+    "service-worker.js": "/asipro/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/asipro/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.43ca1fff.chunk.css.map": "/asipro/static/css/main.43ca1fff.chunk.css.map",
+    "static/media/bug.svg": "/asipro/static/media/bug.a898e5d1.svg",
+    "static/media/clientes.png": "/asipro/static/media/clientes.f2b216d3.png",
+    "static/media/curriculum.pdf": "/asipro/static/media/curriculum.0c3ab62c.pdf",
+    "static/media/logo.svg": "/asipro/static/media/logo.fcc77119.svg",
+    "static/media/pc1404.pdf": "/asipro/static/media/pc1404.9159431c.pdf",
+    "static/media/pc1404.jpg": "/asipro/static/media/pc1404.efdf9194.jpg",
+    "static/media/pc1616.pdf": "/asipro/static/media/pc1616.0b2714c5.pdf",
+    "static/media/pc1616.jpg": "/asipro/static/media/pc1616.4601bb68.jpg",
+    "static/media/pc1832.pdf": "/asipro/static/media/pc1832.0b2714c5.pdf",
+    "static/media/pc1832.jpg": "/asipro/static/media/pc1832.10f3b1de.jpg"
+  }
+}
