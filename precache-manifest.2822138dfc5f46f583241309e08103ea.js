@@ -1,31 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d507c3cb4905a6eb6dfcc8a421a7541",
+    "revision": "d21330b7bed74c9832eaf74f137d30f8",
     "url": "/asipro/index.html"
   },
   {
-    "revision": "5eb207f3aa1c3c571593",
+    "revision": "d18492c9b74380fac2e0",
     "url": "/asipro/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "e7ca2f5bca1fe9fc05eb",
-    "url": "/asipro/static/css/main.43ca1fff.chunk.css"
+    "revision": "0de5c2e40511d9188141",
+    "url": "/asipro/static/css/main.77ed2840.chunk.css"
   },
   {
-    "revision": "5eb207f3aa1c3c571593",
-    "url": "/asipro/static/js/2.afd7426c.chunk.js"
+    "revision": "d18492c9b74380fac2e0",
+    "url": "/asipro/static/js/2.a5698627.chunk.js"
   },
   {
-    "revision": "e7ca2f5bca1fe9fc05eb",
-    "url": "/asipro/static/js/main.c2731539.chunk.js"
+    "revision": "0de5c2e40511d9188141",
+    "url": "/asipro/static/js/main.36da0b2d.chunk.js"
   },
   {
     "revision": "98a23d6d1ff305da56e0",
     "url": "/asipro/static/js/runtime~main.b7fb00ec.js"
   },
   {
+    "revision": "cc74080399b4d8a107461ac6900c7783",
+    "url": "/asipro/static/media/acceso.cc740803.jpg"
+  },
+  {
+    "revision": "7c70d93c2488608314a5f89dd5081563",
+    "url": "/asipro/static/media/alarma.7c70d93c.jpg"
+  },
+  {
     "revision": "a898e5d169f6e6ef6aa9076a971d9891",
     "url": "/asipro/static/media/bug.a898e5d1.svg"
+  },
+  {
+    "revision": "9944e7b771d16547480e8ab6b00d596a",
+    "url": "/asipro/static/media/cctv.9944e7b7.jpg"
   },
   {
     "revision": "f2b216d3772931453e3598b6a005bf33",
@@ -36,8 +48,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/asipro/static/media/curriculum.0c3ab62c.pdf"
   },
   {
-    "revision": "fcc77119f78fdc72e45a62d56e1f753e",
-    "url": "/asipro/static/media/logo.fcc77119.svg"
+    "revision": "541cf064d88446a37944dc97a18978e7",
+    "url": "/asipro/static/media/garrett.541cf064.jpg"
+  },
+  {
+    "revision": "b101f175abe87c20e4d3988c2ff30b3b",
+    "url": "/asipro/static/media/incendio.b101f175.jpg"
+  },
+  {
+    "revision": "42be61d10881c64f4e31cb66ac38d284",
+    "url": "/asipro/static/media/logo.42be61d1.jpg"
   },
   {
     "revision": "9159431c7308b203822f110b5fb379a7",
